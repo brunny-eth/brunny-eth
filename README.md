@@ -2,7 +2,7 @@
 
 I'm a technologist on a lifelong learning journey. I've been working on startups for the better part of the last decade as a do-it-all generalist, and I'm learning how to tinker on software projects to sharpen my technical skillset. 
 
-I'm the Chief Operating Officer of [Pluto](https://pluto.xyz/), where we're building applied cryptography tooling for application developers. I also occassionally write long-form posts on my [blog](https://mirror.xyz/brunny.eth) (highlights of my writing below). 
+I'm the Chief Operating Officer of [Pluto](https://pluto.xyz/), where we're building applied cryptography tooling for application developers. I also occassionally write long-form posts on my [blog](https://mirror.xyz/brunny.eth) (some of my personal favorites below). 
 
 Previously, I studied finance and economics at the University of Florida and received an MBA from the University of Pennsylvania's Wharton School. These days, I've curated a personal curriculum focused on a weird mix of basic computer science, cryptography, and a bunch of other unrelated topics I find interesting, like longevity, space exploration, and finance. 
 
