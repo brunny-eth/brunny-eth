@@ -1,8 +1,8 @@
 ### I'm Bruno
 
-I've spent the last decade building startups as a generalist operator while developing my technical skillset. I'm currently the Chief Operating Officer of [Pluto](https://pluto.xyz/), where we're building applied cryptography tooling for application developers. I also occassionally write long-form posts on my [blog](https://blulinski.com/blog) (some of my personal favorites below). 
+I've spent the last decade building startups as a generalist operator while developing a technical skillset. I'm currently working on [Olea][cookolea.com]. I also occassionally write long-form posts on my [blog](https://blulinski.com/blog) (some of my personal favorites below). 
 
-Previously, I studied finance and economics at the University of Florida and received an MBA from the University of Pennsylvania. These days, I've continued learning by following a rough personal curriculum focused on a mix of computer science, cryptography, and a bunch of other unrelated topics I find interesting, like longevity, space exploration, and finance. 
+I was previously the Chief Operating Officer of [Pluto](https://pluto.xyz/), where we built applied cryptography tooling for application developers. I studied finance and economics at the University of Florida and received an MBA from the University of Pennsylvania. These days, I've continued learning by following a rough personal curriculum focused on a mix of computer science, cryptography, and a bunch of other unrelated topics I find interesting, like longevity, space exploration, and finance. 
 
 I also like to cook (see [my running list of recipes](https://faint-smile-2e4.notion.site/Recipes-08b512690f054e58a760e17305632620)), play golf, and hang out with my puppy Manu. 
 
