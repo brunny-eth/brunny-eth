@@ -1,12 +1,12 @@
 Hi, I'm Bruno. 
 
-I've spent the last decade building startups as a generalist operator, while also developing a strong technical skillset. I built a hobby consumer project for people who like to cook called [Olea](cookolea.com). I also occassionally write long-form posts on my [blog](https://blulinski.com/blog). 
+I've spent the last decade building startups as a generalist operator, while also developing a strong technical skillset. I am currently the Chief of Staff at [Aztec Labs](www.aztec-labs.com). Previously, I was the Chief Operating Officer of [Pluto](https://pluto.xyz/), where we built applied cryptography tooling for application developers. 
 
-Previously, I was the Chief Operating Officer of [Pluto](https://pluto.xyz/), where we built applied cryptography tooling for application developers. Before that, I led the Ecosystem team at [Aztec Labs](https://aztec.network/), leading the launch of the [Noir programming language](https://github.com/noir-lang/noir).
+I built a hobby consumer project for people who like to cook called [Olea](cookolea.com). I also occassionally write long-form posts on my [blog](https://blulinski.com/blog). 
 
 I studied finance and economics at the University of Florida and received an MBA from the University of Pennsylvania. These days, I've continued my learning by following a rough personal curriculum focused on a mix of computer science, cryptography, and a bunch of other unrelated topics I find interesting, like longevity, space exploration, and finance. 
 
-I also like to cook (see [my running list of recipes](https://faint-smile-2e4.notion.site/Recipes-08b512690f054e58a760e17305632620)), play golf, and hang out with my puppy Manu. 
+I also like to cook (see [my running list of recipes](https://faint-smile-2e4.notion.site/Recipes-08b512690f054e58a760e17305632620)), play golf, and hack on some hobby projects. 
 
 
 ### Stuff I've written
